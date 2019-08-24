@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mongodb">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Sessions"></activity>
+        <activity android:name=".addPhone" />
+        <activity android:name=".change_phone" />
+        <activity android:name=".close_Account" />
+        <activity android:name=".Index">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".edit_My_Profil" />
+        <activity android:name=".changeEmail" />
+        <activity android:name=".Profil" />
+        <activity android:name=".Edit_My_Event" />
+        <activity android:name=".Details_My_Event" />
+        <activity android:name=".AddEvent" />
+        <activity android:name=".Details_Event" />
+        <activity android:name=".Tunivision" />
+        <activity android:name=".Securinet" />
+        <activity android:name=".Music" />
+        <activity android:name=".GoogleClub" />
+        <activity android:name=".Gaming" />
+        <activity
+            android:name=".Accueil"
+            android:label="@string/title_activity_accueil"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".ChangePassword" />
+        <activity android:name=".Register" />
+        <activity android:name=".Login" />
+    </application>
+
+</manifest>

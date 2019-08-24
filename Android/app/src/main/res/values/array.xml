@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="choix_responsable">
+        <item >Responsable : </item>
+        <item>IGC</item>
+        <item>Securinet</item>
+        <item>Gaming</item>
+        <item>Music</item>
+        <item>Tunivision</item>
+    </string-array>
+    <string-array name="choix_mevent">
+        <item>Details</item>
+        <item>Remove</item>
+        <item>Edit</item>
+    </string-array>
+
+    <string-array name="choix_tevent">
+        <item>Details</item>
+    </string-array>
+
+</resources>

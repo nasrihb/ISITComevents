@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffc50c</color>
+    <color name="colorPrimaryDark">#1e282d</color>
+    <color name="colorAccent">#1e282d</color>
+    <color name="textPrimary">#f5f5f5</color>
+    <color name="textPrimaryDark">#95aab4</color>
+    <color name="errorText">#B40C0C</color>
+    <color name="facebook">#3F5996</color>
+    <color name="twitter">#29C5F6</color>
+    <color name="google">#D03E2F</color>
+    <color name="white">#FFFF</color>
+    <color name="backgroundcard">#FAFAF9</color>
+    <color name="transparent">#00000000</color>
+    <color name="edittext">#D1D0D0</color>
+    <color name="textcolor">#6e6e6e</color>
+    <color name="robot">#f4f5f5</color>
+    <color name="colorP">#263237</color>
+    <color name="colorPrimaryD">#1e282d</color>
+    <color name="edittext2">#eff5fb</color>
+    <color name="tablayout">#f3f3f3</color>
+</resources>
